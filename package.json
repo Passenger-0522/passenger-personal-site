@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "deploy": "next build && npx wrangler pages deploy out --project-name=xiaoling-personal-site",
+    "deploy": "next build && npx wrangler pages deploy out --project-name=passenger-personal-site",
     "preview": "npx wrangler pages dev out",
     "lint": "next lint"
   },
